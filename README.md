@@ -73,4 +73,4 @@
 
 ## 교육 경험
 - [Django 1:1 과외](https://kmong.com/@%ED%98%84%EB%AF%BC)
-- [파이썬 전자책] (https://kmong.com/gig/300713)
+- [파이썬 전자책](https://kmong.com/gig/300713)
