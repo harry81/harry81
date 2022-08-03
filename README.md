@@ -43,7 +43,7 @@
 - staging, prod 환경 분리 및 적용
 - Elasticbeanstalk 적용하여 무중단 배포 환경 구축
 
-### [Truffls](https://truffls.de/en/)(16.02 ~ 16.03)
+### [Truffls](https://truffls.de/en/)(16.03 ~ 16.08)
 - Android와 iOS 클라이언트가 필요한 API 디자인 및 개발
 - 내부 사용자가 사용하는 admin 페이지 유지 보수
 - Django FMS 을 이용하여 비즈니스 로직 상태 관리
