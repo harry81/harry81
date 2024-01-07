@@ -94,6 +94,18 @@
 - AWS, Elasticbeanstalk
 
 
+## 포트폴리오
+- [Mediciary](https://play.google.com/store/apps/details?id=com.hoodpub.mediciary)
+  - 처방전, 약봉투, 의료 기록을 분석하여 사용자에게 쉽게 설명
+  - 기술
+    - [Django](https://www.djangoproject.com/)
+    - [Flutter ](https://flutter.dev/)
+    - [Elastic Beanstalk](https://docs.aws.amazon.com/ko_kr/elasticbeanstalk/latest/dg/Welcome.html)
+    - [Google vision API](https://cloud.google.com/vision?hl=ko)
+    - [ChatGPT api](https://platform.openai.com/docs/api-reference)
+  - 2023.12 ~ 
+- [유튜브 댓글 분석기](http://analysis.hoodpub.com/)
+  
 ## 교육 경험
 - [Django 1:1 과외](https://kmong.com/@%ED%98%84%EB%AF%BC)
 - [파이썬 전자책](https://kmong.com/gig/300713)
