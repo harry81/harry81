@@ -6,19 +6,42 @@
 
 ## 업무 경험
 
+### [ODK](https://www.ondemandkorea.com/)(22.12 ~ Present)
+회사
+- 비디오 컨텐츠 제공 시스템에서 발생하는 성능 이슈 원인 문석 및 응답 시간 개선
+- 북미에 있는 한인 사용자를 대상으로 한국 영상 컨텐츠를 제공하는 OTT 서비스
+
+역할: 백엔드 개발자
+- 비디오 컨텐츠 제공 시스템에서 발생하는 성능 이슈 원인 문석 및 응답 시간 개선 
+  - Newrelic / sentry 에서 request 별 처리시간 찾아 분석
+  - Django의 orm에서 놓치기 쉬운 N+1 문제(select_related, prefetch_related 로 해결)
+  - 쿼리 판단 조건 순서를 조정하여 부하를 줄임
+- Django Restframework 를 이용한 api 구성 
+  - Framework 에 의존하여 신뢰할 수 있는 코드관리
+- 안정적인 서비스 제공을 위한 장애 대응 및 운용
+- 개선 및 개발 기능
+  - 방송 편성표 api 를 구성하여 모바일 클라이언트에 제공
+  - 최초 페이지 접근시 노출되는 carousel 개선(기본적으로 cache 사용하고 사용자별로 차이가 필요한 부분은 추가적으로 갱신)
+  - Whisper 활용하여 영상에서 자막 생성
+- Skills: Django, Docker, Django ORM query tuning, git, AWS, AWS Batch
+
 ### [Linewalks](https://linewalks.com/)(22.05 ~ 현재)
-- 의료 데이터 분석 환경 제공 B2B/ 백엔드 개발자
+회사
+- 의료 데이터 분석 툴을 병원에 제공 B2B 서비스 
+역할: 백엔드 개발자
 - Flask 기반 시각화를 오픈소스 코드 활용하여 병원 데이터를 대시보드로 구현
 - Docker compose 활용하여 개발 환경 구축 및 배포
 
 ### [Deepnatural](https://deepnatural.ai/)(21.01 ~ 22.04)
+회사
 - ML 학습 데이터를 클라우드 라벨링 B2C / 백엔드 개발자 / 1년 4개월
 - Django admin 응용하여 내부 사용자가 사용하는 기능 추가
+  
+역할: 백엔드 개발자
 - git flow를 소개하여 안정적인 코드 배포에 기여
 - Celery task 적용하여 주기적인 작업을 django 로 관리
 - MLOps 스쿼드에 참여하여 일괄 학습 및 예측 프로세스 도입(AWS batch 적용)
-- 예) 스피커 클러스터링
-- 배포 환경과 branch 연결성 분리 시도
+  - 예) 스피커 클러스터링
 - 운용환경에서 반복적으로 발생하는 deadlock 이슈 부분 해결
 
 ### [어니언스](https://www.papricacare.com/)(20.01 ~ 21.01)
