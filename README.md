@@ -31,7 +31,7 @@
   - Whisper 활용하여 영상에서 자막 생성
 - Skills: Django, Docker, Django ORM query tuning, git, AWS, AWS Batch
 
-### [Linewalks](https://linewalks.com/)(22.05 ~ 현재)
+### [Linewalks](https://linewalks.com/)(22.05 ~ 22.9)
 회사
 - 의료 데이터 분석 툴을 병원에 제공 B2B 서비스 
 역할: 백엔드 개발자
