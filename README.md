@@ -6,7 +6,7 @@
 
 ## 업무 경험
 
-### [ODK](https://www.ondemandkorea.com/)(22.12 ~ Present)
+### [ODK](https://www.ondemandkorea.com/)(22.12 ~ 24.7)
 회사
 - 비디오 컨텐츠 제공 시스템에서 발생하는 성능 이슈 원인 분석 및 응답 시간 개선
 - 북미에 있는 한인 사용자를 대상으로 한국 영상 컨텐츠를 제공하는 OTT 서비스
